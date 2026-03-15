@@ -12,6 +12,8 @@
 
 **Источник:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
 
+**Ссылка на диск с датасетом и файлом Powerbi:** [Ссылка на диск](https://disk.yandex.ru/d/shgwg9ZSLIEOsA)
+
 **Период данных:** сентябрь 2016 — август 2018
 
 **Валюта:** BRL (бразильский реал)
